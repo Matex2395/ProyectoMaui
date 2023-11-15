@@ -39,12 +39,12 @@
                                 Text="{Binding Nombre}"
                                 VerticalOptions="Start"
                                 FontSize="20"
-                                TextColor="Black"/>
+                                TextColor="Red"/>
                             <Label
                                 Text="{Binding Cantidad}"
                                 VerticalOptions="End"
                                 FontSize="20"
-                                TextColor="Black"/>
+                                TextColor="GreenYellow"/>
                         </StackLayout>
                         </StackLayout>
                     </ViewCell>
